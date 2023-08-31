@@ -1,0 +1,545 @@
+"Own_laptop","Education","Locality","Geographic_Area","Sex","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69"
+"No","Never attended","Rural","Ghana","Male",100784,122627,123543,141242,132701,126648,102850,89384,60745,57865,36093
+"No","Never attended","Rural","Ghana","Female",95307,155076,167768,200857,193590,186097,150782,139380,99700,96889,62487
+"No","Never attended","Rural","Western","Male",4700,8745,10264,11387,10509,8677,7007,5361,3587,3064,1921
+"No","Never attended","Rural","Western","Female",4118,8860,11479,13278,13236,11669,10073,9116,6429,5655,3611
+"No","Never attended","Rural","Central","Male",2446,3833,4741,5250,5988,5804,5527,5051,3936,3693,2599
+"No","Never attended","Rural","Central","Female",2110,4509,5843,7916,10385,10999,11947,12281,10201,10002,7066
+"No","Never attended","Rural","Greater Accra","Male",1184,1823,1954,2370,2336,2250,1881,1564,1123,1044,693
+"No","Never attended","Rural","Greater Accra","Female",940,1887,2806,3803,4186,3971,3562,3255,2446,2508,1664
+"No","Never attended","Rural","Volta","Male",2377,3169,3312,4147,4285,4035,3672,3415,2526,2470,1745
+"No","Never attended","Rural","Volta","Female",2065,4006,5106,7077,8145,8812,9120,9764,7933,7894,5795
+"No","Never attended","Rural","Eastern","Male",4467,5965,6208,7368,8269,7666,6929,5962,4583,4221,2888
+"No","Never attended","Rural","Eastern","Female",3100,5598,7281,10108,12439,13017,12398,12182,9868,9429,6570
+"No","Never attended","Rural","Ashanti","Male",6058,9407,11682,13928,14969,13639,12096,10038,6869,5979,3685
+"No","Never attended","Rural","Ashanti","Female",6100,11615,15660,19718,21350,19615,17477,16271,11887,10754,7135
+"No","Never attended","Rural","Western North","Male",3099,4956,5842,7388,8152,7310,5925,4892,3217,2648,1453
+"No","Never attended","Rural","Western North","Female",3207,6214,8063,10153,10050,8958,7253,6137,4056,3331,1815
+"No","Never attended","Rural","Ahafo","Male",975,1624,1902,2615,3007,2767,2470,2039,1470,1136,710
+"No","Never attended","Rural","Ahafo","Female",973,2193,2734,3641,3892,3635,2954,2642,1852,1508,978
+"No","Never attended","Rural","Bono","Male",2228,3495,3757,4502,4824,4635,3995,3537,2591,2197,1397
+"No","Never attended","Rural","Bono","Female",2119,3960,4771,6004,6731,6437,5781,5371,4309,3794,2322
+"No","Never attended","Rural","Bono East","Male",6244,7540,6903,8160,7777,7695,6268,5469,3748,3250,1979
+"No","Never attended","Rural","Bono East","Female",5317,8457,8763,10590,10300,9859,7505,6371,4333,3831,2327
+"No","Never attended","Rural","Oti","Male",5234,5604,5432,6010,5570,5530,4533,3861,2654,2346,1462
+"No","Never attended","Rural","Oti","Female",4642,6966,7374,9307,8552,7800,5885,4981,3555,3175,1984
+"No","Never attended","Rural","Northern","Male",24240,25083,22573,24044,18744,19617,13152,12184,6905,7952,4188
+"No","Never attended","Rural","Northern","Female",25448,38943,37140,40158,30294,26990,15779,13033,7078,8280,4263
+"No","Never attended","Rural","Savannah","Male",11705,12536,10558,11676,8428,8359,5592,5178,2932,3314,1836
+"No","Never attended","Rural","Savannah","Female",10918,14753,12988,13992,10648,10056,6400,5511,3073,3545,1987
+"No","Never attended","Rural","North East","Male",8701,8731,7608,8115,6606,6120,4574,3925,2414,2624,1509
+"No","Never attended","Rural","North East","Female",9500,12678,11349,12434,10118,9039,5907,5071,3208,3369,2029
+"No","Never attended","Rural","Upper East","Male",8965,10403,11180,13554,13338,13067,11243,10007,7053,6940,4762
+"No","Never attended","Rural","Upper East","Female",7787,13059,14954,18565,19171,20583,17185,16474,11616,11716,7686
+"No","Never attended","Rural","Upper West","Male",8161,9713,9627,10728,9899,9477,7986,6901,5137,4987,3266
+"No","Never attended","Rural","Upper West","Female",6963,11378,11457,14113,14093,14657,11556,10920,7856,8098,5255
+"No","Never attended","Urban","Ghana","Male",33979,56811,67340,80841,78543,75395,62550,50576,33142,31229,19665
+"No","Never attended","Urban","Ghana","Female",43537,84642,110653,139181,142625,134994,116969,104422,76254,74189,50166
+"No","Never attended","Urban","Western","Male",1802,3548,4433,5093,4696,4180,3567,2666,1764,1586,1011
+"No","Never attended","Urban","Western","Female",1863,3984,5412,7011,7799,7422,6907,6206,4750,4405,3018
+"No","Never attended","Urban","Central","Male",2538,3989,4953,5985,6763,6497,6133,4692,3249,2979,1966
+"No","Never attended","Urban","Central","Female",2446,4974,7049,9670,11981,11859,11390,10579,8110,8095,5821
+"No","Never attended","Urban","Greater Accra","Male",4649,10961,14248,16461,15011,13617,10748,7938,5116,4438,2812
+"No","Never attended","Urban","Greater Accra","Female",8536,16255,21776,27718,29714,26566,23405,19825,14571,13881,9360
+"No","Never attended","Urban","Volta","Male",969,1741,1941,2504,2569,2317,1892,1627,1093,1012,710
+"No","Never attended","Urban","Volta","Female",1203,2427,3466,4808,5235,5176,4983,4759,3946,3889,2805
+"No","Never attended","Urban","Eastern","Male",1580,2917,3491,4286,4524,4174,3700,3122,2173,2027,1385
+"No","Never attended","Urban","Eastern","Female",1731,3327,4915,6608,8119,8056,8120,7668,6431,6241,4527
+"No","Never attended","Urban","Ashanti","Male",3897,7729,9642,11271,11372,10923,9440,7456,5074,4632,2870
+"No","Never attended","Urban","Ashanti","Female",5872,11082,15338,19252,21329,20625,19187,17363,12878,11974,8600
+"No","Never attended","Urban","Western North","Male",728,1168,1311,1682,1615,1563,1244,1024,690,629,346
+"No","Never attended","Urban","Western North","Female",916,1781,2144,2601,2818,2614,2238,2190,1454,1270,764
+"No","Never attended","Urban","Ahafo","Male",513,861,1041,1264,1418,1098,1040,896,631,561,346
+"No","Never attended","Urban","Ahafo","Female",530,1252,1547,1971,2075,1952,1871,1731,1338,1171,822
+"No","Never attended","Urban","Bono","Male",1384,2346,2590,2959,2941,2814,2408,2200,1665,1578,957
+"No","Never attended","Urban","Bono","Female",1566,3005,3666,4795,5161,5268,5035,5048,4150,3945,2761
+"No","Never attended","Urban","Bono East","Male",2766,4091,4292,5199,5125,4655,3926,3212,2035,1849,1215
+"No","Never attended","Urban","Bono East","Female",3287,6061,7137,8447,8212,7161,6136,5285,3806,3468,2184
+"No","Never attended","Urban","Oti","Male",1685,2000,2217,2230,2196,2137,1631,1340,984,843,538
+"No","Never attended","Urban","Oti","Female",1845,3030,3410,3929,3665,3218,2433,2138,1577,1424,904
+"No","Never attended","Urban","Northern","Male",5659,7885,8976,11820,10841,11979,9222,8059,4603,5155,3103
+"No","Never attended","Urban","Northern","Female",7248,16033,20812,25127,21131,20157,13610,11383,6402,7495,4300
+"No","Never attended","Urban","Savannah","Male",1719,2460,2344,2919,2414,2361,1658,1320,871,828,537
+"No","Never attended","Urban","Savannah","Female",2001,3419,3824,4278,3487,3148,2220,1825,1218,1215,737
+"No","Never attended","Urban","North East","Male",2277,2457,2452,2817,2638,2500,1868,1585,910,980,537
+"No","Never attended","Urban","North East","Female",2483,3810,4240,5098,4218,3864,2741,2338,1468,1558,926
+"No","Never attended","Urban","Upper East","Male",1256,1650,2063,2682,2729,2888,2590,2212,1497,1330,806
+"No","Never attended","Urban","Upper East","Female",1213,2481,3495,4833,4776,4956,4241,3844,2536,2534,1619
+"No","Never attended","Urban","Upper West","Male",557,1008,1346,1669,1691,1692,1483,1227,787,802,526
+"No","Never attended","Urban","Upper West","Female",797,1721,2422,3035,2905,2952,2452,2240,1619,1624,1018
+"No","Primary","Rural","Ghana","Male",50446,54531,46821,42695,42229,31510,26319,20073,14292,11668,7693
+"No","Primary","Rural","Ghana","Female",45869,59875,55819,53826,52321,40052,33895,27226,19076,16372,10584
+"No","Primary","Rural","Western","Male",3779,4645,4317,3911,3896,2685,2421,1675,1169,885,546
+"No","Primary","Rural","Western","Female",3243,5142,5005,4875,4645,3235,2648,2045,1255,1028,555
+"No","Primary","Rural","Central","Male",3096,3798,3369,3384,3858,3116,2884,2332,1784,1581,1061
+"No","Primary","Rural","Central","Female",3083,4567,5103,5454,6263,5222,4955,3971,2778,2402,1540
+"No","Primary","Rural","Greater Accra","Male",1262,1919,1734,1695,1571,1256,1028,677,435,362,190
+"No","Primary","Rural","Greater Accra","Female",1323,2180,2483,2389,2340,1646,1314,901,546,485,278
+"No","Primary","Rural","Volta","Male",2956,3781,3811,3933,4049,3122,2719,2343,1746,1486,1066
+"No","Primary","Rural","Volta","Female",3033,5012,5434,5765,5940,4782,4314,3842,2853,2523,1937
+"No","Primary","Rural","Eastern","Male",5095,6117,5876,5651,6587,5157,4587,3600,2622,2190,1497
+"No","Primary","Rural","Eastern","Female",4702,6888,7296,7949,9009,7335,6624,5406,3996,3486,2302
+"No","Primary","Rural","Ashanti","Male",6713,7898,7061,6602,7293,5573,4751,3541,2455,1955,1211
+"No","Primary","Rural","Ashanti","Female",6696,9214,9474,9843,10037,8007,6799,5475,4029,3382,2013
+"No","Primary","Rural","Western North","Male",2065,2148,2031,2131,2182,1613,1377,1092,792,557,337
+"No","Primary","Rural","Western North","Female",2072,2745,2700,2686,2413,1725,1443,1100,712,495,291
+"No","Primary","Rural","Ahafo","Male",1068,1148,1008,1026,1144,934,728,558,427,316,227
+"No","Primary","Rural","Ahafo","Female",966,1356,1212,1278,1295,1029,873,658,448,355,242
+"No","Primary","Rural","Bono","Male",1910,2055,1611,1584,1612,1171,902,697,529,440,280
+"No","Primary","Rural","Bono","Female",1777,2295,1974,2032,1865,1392,1107,974,635,592,370
+"No","Primary","Rural","Bono East","Male",3566,3527,2534,2234,1977,1424,1045,775,520,424,271
+"No","Primary","Rural","Bono East","Female",3118,3617,2768,2344,1889,1293,950,753,481,459,266
+"No","Primary","Rural","Oti","Male",2170,2348,1952,1858,1686,1346,1103,818,623,463,324
+"No","Primary","Rural","Oti","Female",2250,2816,2243,2017,1844,1407,1067,830,591,526,370
+"No","Primary","Rural","Northern","Male",3542,2972,2257,1621,1157,839,461,321,162,156,88
+"No","Primary","Rural","Northern","Female",3020,3051,1771,1188,647,386,183,106,61,33,23
+"No","Primary","Rural","Savannah","Male",1615,1577,995,738,516,327,229,194,98,95,66
+"No","Primary","Rural","Savannah","Female",1736,1760,1013,632,434,245,144,95,49,44,19
+"No","Primary","Rural","North East","Male",1565,1234,871,659,517,294,198,167,92,98,42
+"No","Primary","Rural","North East","Female",1445,1261,861,597,348,198,110,72,31,37,23
+"No","Primary","Rural","Upper East","Male",6168,5707,4769,3766,2863,1865,1395,910,559,424,319
+"No","Primary","Rural","Upper East","Female",4221,4550,3937,3192,2220,1479,966,678,414,316,179
+"No","Primary","Rural","Upper West","Male",3876,3657,2625,1902,1321,788,491,373,279,236,168
+"No","Primary","Rural","Upper West","Female",3184,3421,2545,1585,1132,671,398,320,197,209,176
+"No","Primary","Urban","Ghana","Male",27997,36229,33539,33726,34079,27202,22641,15985,10699,8106,5042
+"No","Primary","Urban","Ghana","Female",31267,45429,52323,57769,60817,48536,41981,32223,22236,18138,11203
+"No","Primary","Urban","Western","Male",1632,2323,2216,2126,2000,1560,1324,884,646,457,243
+"No","Primary","Urban","Western","Female",1597,2541,3132,3175,3458,2792,2466,1854,1125,992,595
+"No","Primary","Urban","Central","Male",2965,3739,3468,3338,3531,3037,2607,2044,1351,1076,688
+"No","Primary","Urban","Central","Female",3076,4816,5571,6000,6851,5289,4977,3816,2638,2133,1377
+"No","Primary","Urban","Greater Accra","Male",5117,7888,8055,8842,8968,7336,6180,4195,2714,1859,1115
+"No","Primary","Urban","Greater Accra","Female",6775,10070,13719,16523,17854,14761,12449,9531,6183,4860,2792
+"No","Primary","Urban","Volta","Male",1252,1787,1803,1913,2069,1665,1394,947,700,554,413
+"No","Primary","Urban","Volta","Female",1508,2529,3110,3575,3376,2679,2410,1989,1480,1225,867
+"No","Primary","Urban","Eastern","Male",2485,3149,2902,2973,3350,2708,2291,1737,1170,991,648
+"No","Primary","Urban","Eastern","Female",2685,4045,4746,5512,6342,5504,5039,4107,3108,2752,1867
+"No","Primary","Urban","Ashanti","Male",4489,6103,5850,5933,6070,4966,4182,2979,2021,1441,890
+"No","Primary","Urban","Ashanti","Female",5167,7763,9262,10685,12183,9987,8746,6644,4706,3784,2195
+"No","Primary","Urban","Western North","Male",480,573,553,573,595,408,349,234,171,143,91
+"No","Primary","Urban","Western North","Female",597,779,868,949,892,623,519,386,283,185,110
+"No","Primary","Urban","Ahafo","Male",554,668,584,615,604,460,362,252,212,149,88
+"No","Primary","Urban","Ahafo","Female",542,824,898,932,1003,725,667,519,435,367,224
+"No","Primary","Urban","Bono","Male",1305,1568,1298,1246,1350,979,855,606,414,377,229
+"No","Primary","Urban","Bono","Female",1407,2027,2044,2304,2362,1694,1487,1224,920,713,542
+"No","Primary","Urban","Bono East","Male",2263,2485,1983,1708,1617,1180,898,601,414,281,188
+"No","Primary","Urban","Bono East","Female",2524,3299,2935,2589,2232,1554,1187,828,584,495,260
+"No","Primary","Urban","Oti","Male",759,811,652,628,585,426,361,238,195,150,98
+"No","Primary","Urban","Oti","Female",1069,1120,912,875,767,560,408,307,228,188,132
+"No","Primary","Urban","Northern","Male",2553,2782,2072,1883,1466,1126,746,538,301,285,157
+"No","Primary","Urban","Northern","Female",2186,2780,2480,2066,1381,930,577,352,148,134,83
+"No","Primary","Urban","Savannah","Male",426,421,363,276,206,168,107,87,32,53,23
+"No","Primary","Urban","Savannah","Female",443,617,474,378,250,142,97,61,33,27,21
+"No","Primary","Urban","North East","Male",484,438,321,295,260,193,116,84,41,37,25
+"No","Primary","Urban","North East","Female",493,513,411,327,245,132,91,59,33,22,12
+"No","Primary","Urban","Upper East","Male",815,947,961,958,955,682,622,408,210,168,95
+"No","Primary","Urban","Upper East","Female",705,973,1090,1234,1069,794,611,386,210,175,81
+"No","Primary","Urban","Upper West","Male",418,547,458,419,453,308,247,151,107,85,51
+"No","Primary","Urban","Upper West","Female",493,733,671,645,552,370,250,160,122,86,45
+"No","Secondary","Rural","Ghana","Male",1966,3650,2770,2942,2799,7502,14196,9652,7772,6106,6701
+"No","Secondary","Rural","Ghana","Female",2088,2730,1911,1567,1288,4335,8494,2984,2549,2073,3513
+"No","Secondary","Rural","Western","Male",163,341,280,368,325,739,1438,798,714,515,574
+"No","Secondary","Rural","Western","Female",174,230,220,198,146,368,676,217,206,162,232
+"No","Secondary","Rural","Central","Male",165,229,176,212,185,752,1672,933,834,614,784
+"No","Secondary","Rural","Central","Female",140,171,122,115,93,465,1038,361,272,222,426
+"No","Secondary","Rural","Greater Accra","Male",72,157,133,258,276,493,654,605,435,301,296
+"No","Secondary","Rural","Greater Accra","Female",68,142,122,209,198,305,454,307,223,156,176
+"No","Secondary","Rural","Volta","Male",122,218,196,196,214,617,1129,1079,766,625,712
+"No","Secondary","Rural","Volta","Female",132,175,147,135,124,430,814,390,312,256,441
+"No","Secondary","Rural","Eastern","Male",140,220,191,257,245,1112,2376,1299,1059,1000,1107
+"No","Secondary","Rural","Eastern","Female",118,161,146,141,116,706,1609,433,419,353,693
+"No","Secondary","Rural","Ashanti","Male",321,502,416,471,476,1688,3337,1956,1580,1296,1353
+"No","Secondary","Rural","Ashanti","Female",335,419,277,300,251,1129,2228,621,588,510,841
+"No","Secondary","Rural","Western North","Male",125,315,221,225,197,497,914,557,435,357,295
+"No","Secondary","Rural","Western North","Female",122,195,159,100,66,223,388,106,80,56,111
+"No","Secondary","Rural","Ahafo","Male",39,109,71,72,79,201,459,290,280,186,227
+"No","Secondary","Rural","Ahafo","Female",42,70,42,29,32,113,251,75,76,52,99
+"No","Secondary","Rural","Bono","Male",59,123,89,115,113,358,697,572,470,314,318
+"No","Secondary","Rural","Bono","Female",56,76,59,62,59,211,406,162,119,94,161
+"No","Secondary","Rural","Bono East","Male",82,143,119,101,111,238,437,369,273,180,226
+"No","Secondary","Rural","Bono East","Female",55,106,73,37,25,99,205,62,48,44,94
+"No","Secondary","Rural","Oti","Male",99,165,104,100,123,239,452,358,333,231,220
+"No","Secondary","Rural","Oti","Female",81,97,56,37,32,118,250,79,82,59,94
+"No","Secondary","Rural","Northern","Male",253,426,251,188,153,189,157,219,122,116,123
+"No","Secondary","Rural","Northern","Female",186,252,146,57,41,39,36,23,20,19,13
+"No","Secondary","Rural","Savannah","Male",70,158,100,64,56,81,98,105,75,63,53
+"No","Secondary","Rural","Savannah","Female",51,104,44,11,17,19,25,20,13,9,11
+"No","Secondary","Rural","North East","Male",67,103,89,63,46,52,59,102,62,41,52
+"No","Secondary","Rural","North East","Female",66,96,47,25,10,11,5,9,9,11,8
+"No","Secondary","Rural","Upper East","Male",127,260,201,155,121,151,187,247,189,158,206
+"No","Secondary","Rural","Upper East","Female",403,287,167,66,43,61,75,68,44,43,56
+"No","Secondary","Rural","Upper West","Male",62,181,133,97,79,95,130,163,145,109,155
+"No","Secondary","Rural","Upper West","Female",59,149,84,45,35,38,34,51,38,27,57
+"No","Secondary","Urban","Ghana","Male",5075,6680,6321,8826,9773,20515,33054,28970,22853,17246,14450
+"No","Secondary","Urban","Ghana","Female",6680,6422,6037,7771,7572,16524,28079,18571,15600,12069,11966
+"No","Secondary","Urban","Western","Male",374,499,496,659,676,1342,2302,1690,1364,1001,835
+"No","Secondary","Urban","Western","Female",449,504,450,598,528,1091,1919,1187,976,648,729
+"No","Secondary","Urban","Central","Male",334,497,451,535,626,1602,2690,2114,1634,1271,1190
+"No","Secondary","Urban","Central","Female",730,460,408,525,484,1293,2341,1312,1094,861,912
+"No","Secondary","Urban","Greater Accra","Male",1364,2265,2614,4057,4701,8666,12999,12289,9801,7163,5515
+"No","Secondary","Urban","Greater Accra","Female",1559,2144,2467,3686,3772,7328,11297,9239,7730,6123,5388
+"No","Secondary","Urban","Volta","Male",239,247,204,257,287,622,932,913,764,625,602
+"No","Secondary","Urban","Volta","Female",371,248,201,226,207,427,796,553,509,371,420
+"No","Secondary","Urban","Eastern","Male",523,504,380,548,594,1592,2875,2015,1770,1526,1455
+"No","Secondary","Urban","Eastern","Female",707,467,369,460,426,1419,2525,1343,1175,1013,1053
+"No","Secondary","Urban","Ashanti","Male",708,938,892,1279,1535,4084,7189,5756,4443,3396,2891
+"No","Secondary","Urban","Ashanti","Female",1111,1008,916,1157,1259,3355,6391,3289,2797,2082,2368
+"No","Secondary","Urban","Western North","Male",278,176,83,119,126,277,457,326,257,182,139
+"No","Secondary","Urban","Western North","Female",328,162,92,89,67,151,261,95,108,71,71
+"No","Secondary","Urban","Ahafo","Male",58,75,70,92,108,282,539,406,321,242,210
+"No","Secondary","Urban","Ahafo","Female",172,92,70,92,81,181,410,199,133,103,167
+"No","Secondary","Urban","Bono","Male",162,276,220,300,302,637,1168,1051,767,580,533
+"No","Secondary","Urban","Bono","Female",165,271,237,296,248,512,1018,599,462,348,424
+"No","Secondary","Urban","Bono East","Male",150,219,155,175,176,386,660,634,437,294,290
+"No","Secondary","Urban","Bono East","Female",154,194,142,138,93,256,463,217,186,142,138
+"No","Secondary","Urban","Oti","Male",52,99,79,79,51,149,225,212,174,139,109
+"No","Secondary","Urban","Oti","Female",58,69,56,39,47,89,147,73,65,29,62
+"No","Secondary","Urban","Northern","Male",409,443,339,379,315,420,476,786,557,470,343
+"No","Secondary","Urban","Northern","Female",205,345,313,234,180,194,217,233,172,141,115
+"No","Secondary","Urban","Savannah","Male",44,113,121,109,66,93,76,140,98,71,63
+"No","Secondary","Urban","Savannah","Female",25,90,101,52,30,43,44,36,20,23,13
+"No","Secondary","Urban","North East","Male",29,66,60,55,44,67,94,121,86,49,68
+"No","Secondary","Urban","North East","Female",77,70,35,25,32,26,25,28,16,18,13
+"No","Secondary","Urban","Upper East","Male",165,110,99,110,110,172,191,285,217,141,122
+"No","Secondary","Urban","Upper East","Female",200,146,126,103,63,92,137,82,96,44,51
+"No","Secondary","Urban","Upper West","Male",186,153,58,73,56,124,181,232,163,96,85
+"No","Secondary","Urban","Upper West","Female",369,152,54,51,55,67,88,86,61,52,42
+"No","Tertiary - Bachelor's Degree","Rural","Ghana","Male",130,1874,10042,15638,13290,7885,5076,3077,2533,2651,1823
+"No","Tertiary - Bachelor's Degree","Rural","Ghana","Female",89,1356,6666,9184,6261,2652,1270,740,735,885,437
+"No","Tertiary - Bachelor's Degree","Rural","Western","Male",5,171,922,1255,920,580,392,242,202,194,83
+"No","Tertiary - Bachelor's Degree","Rural","Western","Female",11,104,582,604,374,139,62,49,37,33,14
+"No","Tertiary - Bachelor's Degree","Rural","Central","Male",16,166,1084,1636,1531,841,626,381,282,296,206
+"No","Tertiary - Bachelor's Degree","Rural","Central","Female",13,119,766,1160,783,298,161,95,76,81,41
+"No","Tertiary - Bachelor's Degree","Rural","Greater Accra","Male",15,240,811,1104,1021,669,457,286,195,164,135
+"No","Tertiary - Bachelor's Degree","Rural","Greater Accra","Female",14,238,788,1108,818,437,213,108,103,134,49
+"No","Tertiary - Bachelor's Degree","Rural","Volta","Male",11,112,615,1139,1161,909,654,409,333,363,281
+"No","Tertiary - Bachelor's Degree","Rural","Volta","Female",5,76,443,787,551,273,150,77,95,145,90
+"No","Tertiary - Bachelor's Degree","Rural","Eastern","Male",16,188,1006,1606,1394,874,627,346,374,414,286
+"No","Tertiary - Bachelor's Degree","Rural","Eastern","Female",8,133,798,1116,854,370,188,111,115,138,70
+"No","Tertiary - Bachelor's Degree","Rural","Ashanti","Male",26,467,2319,3526,2737,1458,950,629,475,516,375
+"No","Tertiary - Bachelor's Degree","Rural","Ashanti","Female",18,409,1691,2333,1612,606,289,181,151,188,89
+"No","Tertiary - Bachelor's Degree","Rural","Western North","Male",7,94,583,879,622,340,205,112,100,93,54
+"No","Tertiary - Bachelor's Degree","Rural","Western North","Female",2,46,296,265,153,53,26,19,25,14,4
+"No","Tertiary - Bachelor's Degree","Rural","Ahafo","Male",4,24,233,367,269,128,85,62,60,54,29
+"No","Tertiary - Bachelor's Degree","Rural","Ahafo","Female",2,17,117,153,77,27,14,8,10,11,7
+"No","Tertiary - Bachelor's Degree","Rural","Bono","Male",8,95,588,749,641,345,206,147,134,130,85
+"No","Tertiary - Bachelor's Degree","Rural","Bono","Female",2,52,341,469,278,110,55,20,20,22,17
+"No","Tertiary - Bachelor's Degree","Rural","Bono East","Male",2,59,313,552,451,212,149,82,69,73,37
+"No","Tertiary - Bachelor's Degree","Rural","Bono East","Female",4,25,154,214,134,49,17,12,12,8,4
+"No","Tertiary - Bachelor's Degree","Rural","Oti","Male",3,40,239,370,361,222,153,83,105,88,71
+"No","Tertiary - Bachelor's Degree","Rural","Oti","Female",1,20,115,139,93,42,13,15,22,26,12
+"No","Tertiary - Bachelor's Degree","Rural","Northern","Male",8,74,297,586,491,302,152,81,56,60,31
+"No","Tertiary - Bachelor's Degree","Rural","Northern","Female",0,23,134,191,141,68,28,14,14,19,10
+"No","Tertiary - Bachelor's Degree","Rural","Savannah","Male",2,24,108,172,126,78,32,23,15,13,11
+"No","Tertiary - Bachelor's Degree","Rural","Savannah","Female",0,9,54,49,19,9,3,1,4,1,3
+"No","Tertiary - Bachelor's Degree","Rural","North East","Male",0,8,108,173,155,93,28,10,16,20,8
+"No","Tertiary - Bachelor's Degree","Rural","North East","Female",0,3,30,29,14,4,3,2,2,4,0
+"No","Tertiary - Bachelor's Degree","Rural","Upper East","Male",5,75,511,1028,947,564,229,128,84,117,72
+"No","Tertiary - Bachelor's Degree","Rural","Upper East","Female",6,57,236,392,224,101,32,20,31,38,14
+"No","Tertiary - Bachelor's Degree","Rural","Upper West","Male",2,37,305,496,463,270,131,56,33,56,59
+"No","Tertiary - Bachelor's Degree","Rural","Upper West","Female",3,25,121,175,136,66,16,8,18,23,13
+"No","Tertiary - Bachelor's Degree","Urban","Ghana","Male",567,13217,52530,66297,53278,33583,21775,13799,10327,10194,7033
+"No","Tertiary - Bachelor's Degree","Urban","Ghana","Female",529,13201,46260,55494,38739,18722,9480,5981,5194,5103,2881
+"No","Tertiary - Bachelor's Degree","Urban","Western","Male",26,679,3330,3859,3051,1809,1334,891,660,531,369
+"No","Tertiary - Bachelor's Degree","Urban","Western","Female",23,604,2633,3122,2155,993,564,357,318,267,124
+"No","Tertiary - Bachelor's Degree","Urban","Central","Male",47,957,3771,4844,3904,2593,1781,1136,883,849,557
+"No","Tertiary - Bachelor's Degree","Urban","Central","Female",34,912,3411,4044,2853,1462,784,414,418,380,216
+"No","Tertiary - Bachelor's Degree","Urban","Greater Accra","Male",238,6503,21110,23239,18202,12240,7954,5040,3749,3770,2645
+"No","Tertiary - Bachelor's Degree","Urban","Greater Accra","Female",274,6996,21157,23222,16264,8340,4333,2770,2212,2223,1336
+"No","Tertiary - Bachelor's Degree","Urban","Volta","Male",9,220,1134,1793,1868,1327,987,593,506,525,362
+"No","Tertiary - Bachelor's Degree","Urban","Volta","Female",8,167,892,1644,1345,768,392,233,241,232,149
+"No","Tertiary - Bachelor's Degree","Urban","Eastern","Male",35,695,3284,4654,4080,2484,1683,1157,934,980,681
+"No","Tertiary - Bachelor's Degree","Urban","Eastern","Female",38,702,2965,4032,3046,1469,775,489,452,419,221
+"No","Tertiary - Bachelor's Degree","Urban","Ashanti","Male",140,2626,10530,12688,9546,5553,3416,2196,1731,1707,1229
+"No","Tertiary - Bachelor's Degree","Urban","Ashanti","Female",99,2495,8833,10756,7212,3188,1419,931,782,761,460
+"No","Tertiary - Bachelor's Degree","Urban","Western North","Male",2,103,846,1157,846,467,261,163,114,103,64
+"No","Tertiary - Bachelor's Degree","Urban","Western North","Female",0,90,443,481,279,88,38,35,28,45,11
+"No","Tertiary - Bachelor's Degree","Urban","Ahafo","Male",13,110,750,1056,798,420,291,214,159,127,74
+"No","Tertiary - Bachelor's Degree","Urban","Ahafo","Female",3,91,490,608,389,111,69,51,46,27,21
+"No","Tertiary - Bachelor's Degree","Urban","Bono","Male",12,414,2233,3126,2391,1333,786,550,353,385,290
+"No","Tertiary - Bachelor's Degree","Urban","Bono","Female",12,357,1820,2253,1487,607,266,150,175,169,75
+"No","Tertiary - Bachelor's Degree","Urban","Bono East","Male",7,201,1305,2069,1667,874,591,379,252,267,169
+"No","Tertiary - Bachelor's Degree","Urban","Bono East","Female",7,164,836,1172,722,311,113,69,95,95,38
+"No","Tertiary - Bachelor's Degree","Urban","Oti","Male",5,39,351,632,566,378,219,129,99,75,55
+"No","Tertiary - Bachelor's Degree","Urban","Oti","Female",0,23,178,283,172,73,35,26,32,45,10
+"No","Tertiary - Bachelor's Degree","Urban","Northern","Male",16,386,2068,3759,3325,2180,1421,775,459,416,244
+"No","Tertiary - Bachelor's Degree","Urban","Northern","Female",23,360,1451,1955,1370,614,349,225,211,191,96
+"No","Tertiary - Bachelor's Degree","Urban","Savannah","Male",3,48,305,605,507,323,194,96,72,74,47
+"No","Tertiary - Bachelor's Degree","Urban","Savannah","Female",1,37,190,219,151,53,33,18,20,19,11
+"No","Tertiary - Bachelor's Degree","Urban","North East","Male",3,35,231,440,412,262,144,88,51,61,25
+"No","Tertiary - Bachelor's Degree","Urban","North East","Female",1,27,116,158,110,44,16,17,8,15,7
+"No","Tertiary - Bachelor's Degree","Urban","Upper East","Male",9,102,684,1285,1164,734,370,225,140,164,96
+"No","Tertiary - Bachelor's Degree","Urban","Upper East","Female",2,97,433,844,643,325,156,98,83,104,60
+"No","Tertiary - Bachelor's Degree","Urban","Upper West","Male",2,99,598,1091,951,606,343,167,165,160,126
+"No","Tertiary - Bachelor's Degree","Urban","Upper West","Female",4,79,412,701,541,276,138,98,73,111,46
+"Yes","Never attended","Rural","Ghana","Male",71,122,135,142,147,106,65,34,29,28,17
+"Yes","Never attended","Rural","Ghana","Female",38,85,86,108,89,68,70,74,37,37,31
+"Yes","Never attended","Rural","Western","Male",10,20,12,20,12,11,6,3,3,1,1
+"Yes","Never attended","Rural","Western","Female",1,4,4,12,10,2,3,6,6,8,3
+"Yes","Never attended","Rural","Central","Male",4,8,8,9,9,7,7,3,4,1,1
+"Yes","Never attended","Rural","Central","Female",1,6,11,6,7,4,6,13,3,4,4
+"Yes","Never attended","Rural","Greater Accra","Male",0,4,7,7,10,6,6,3,0,1,1
+"Yes","Never attended","Rural","Greater Accra","Female",0,1,3,5,5,2,1,2,4,1,2
+"Yes","Never attended","Rural","Volta","Male",1,2,5,4,13,8,3,0,0,1,0
+"Yes","Never attended","Rural","Volta","Female",1,1,0,2,4,3,3,1,2,4,2
+"Yes","Never attended","Rural","Eastern","Male",6,6,10,11,13,9,8,4,2,4,0
+"Yes","Never attended","Rural","Eastern","Female",2,10,6,6,4,8,8,8,1,4,3
+"Yes","Never attended","Rural","Ashanti","Male",8,14,24,31,20,20,7,5,7,0,2
+"Yes","Never attended","Rural","Ashanti","Female",9,15,15,19,9,10,11,15,8,1,6
+"Yes","Never attended","Rural","Western North","Male",3,7,9,2,14,6,3,4,1,1,0
+"Yes","Never attended","Rural","Western North","Female",0,0,7,7,4,2,7,1,1,2,0
+"Yes","Never attended","Rural","Ahafo","Male",0,7,5,2,5,4,1,1,2,2,1
+"Yes","Never attended","Rural","Ahafo","Female",2,2,2,2,1,0,5,1,0,0,1
+"Yes","Never attended","Rural","Bono","Male",0,3,5,5,5,3,4,1,0,2,1
+"Yes","Never attended","Rural","Bono","Female",1,2,4,4,4,6,3,3,2,0,3
+"Yes","Never attended","Rural","Bono East","Male",4,5,2,3,1,0,3,1,2,1,0
+"Yes","Never attended","Rural","Bono East","Female",1,5,1,5,1,1,1,1,1,0,0
+"Yes","Never attended","Rural","Oti","Male",2,6,1,4,5,3,2,0,0,2,1
+"Yes","Never attended","Rural","Oti","Female",1,1,3,6,1,1,1,2,3,1,0
+"Yes","Never attended","Rural","Northern","Male",9,13,11,11,14,6,2,4,3,2,2
+"Yes","Never attended","Rural","Northern","Female",10,10,12,9,11,11,3,5,1,2,0
+"Yes","Never attended","Rural","Savannah","Male",8,6,10,11,5,5,3,0,1,2,1
+"Yes","Never attended","Rural","Savannah","Female",2,5,8,6,5,5,1,3,1,1,0
+"Yes","Never attended","Rural","North East","Male",3,5,4,3,6,1,1,0,0,0,0
+"Yes","Never attended","Rural","North East","Female",2,5,3,4,4,4,4,0,0,1,1
+"Yes","Never attended","Rural","Upper East","Male",9,7,14,7,8,11,6,5,4,7,3
+"Yes","Never attended","Rural","Upper East","Female",2,11,4,10,16,6,9,7,4,5,3
+"Yes","Never attended","Rural","Upper West","Male",4,9,8,12,7,6,3,0,0,1,3
+"Yes","Never attended","Rural","Upper West","Female",3,7,3,5,3,3,4,6,0,3,3
+"Yes","Never attended","Urban","Ghana","Male",79,201,319,333,300,219,171,113,73,51,17
+"Yes","Never attended","Urban","Ghana","Female",54,130,197,239,198,190,163,117,84,66,38
+"Yes","Never attended","Urban","Western","Male",0,10,16,8,15,13,4,3,0,3,1
+"Yes","Never attended","Urban","Western","Female",0,4,9,12,5,3,11,4,4,4,1
+"Yes","Never attended","Urban","Central","Male",13,21,26,17,23,14,12,4,7,1,2
+"Yes","Never attended","Urban","Central","Female",2,5,19,17,28,9,13,11,10,8,2
+"Yes","Never attended","Urban","Greater Accra","Male",25,65,108,141,113,69,53,29,30,22,6
+"Yes","Never attended","Urban","Greater Accra","Female",17,43,66,72,61,64,54,34,32,20,14
+"Yes","Never attended","Urban","Volta","Male",0,3,13,11,7,5,9,8,0,1,1
+"Yes","Never attended","Urban","Volta","Female",0,0,1,4,4,3,5,3,2,2,1
+"Yes","Never attended","Urban","Eastern","Male",2,11,13,24,18,19,20,5,5,2,0
+"Yes","Never attended","Urban","Eastern","Female",2,6,7,9,5,11,7,4,6,2,3
+"Yes","Never attended","Urban","Ashanti","Male",12,33,75,44,51,32,25,23,18,6,3
+"Yes","Never attended","Urban","Ashanti","Female",7,17,30,38,26,26,35,26,15,12,4
+"Yes","Never attended","Urban","Western North","Male",2,8,4,6,9,4,3,2,1,0,0
+"Yes","Never attended","Urban","Western North","Female",0,2,3,3,4,0,1,4,1,1,0
+"Yes","Never attended","Urban","Ahafo","Male",0,1,7,6,4,8,0,4,1,0,0
+"Yes","Never attended","Urban","Ahafo","Female",0,4,3,1,4,0,2,1,1,2,0
+"Yes","Never attended","Urban","Bono","Male",1,13,12,9,9,7,7,5,2,2,1
+"Yes","Never attended","Urban","Bono","Female",2,3,12,13,10,4,1,9,4,5,1
+"Yes","Never attended","Urban","Bono East","Male",0,3,11,10,12,11,7,4,1,1,0
+"Yes","Never attended","Urban","Bono East","Female",1,4,3,4,4,6,5,3,5,0,3
+"Yes","Never attended","Urban","Oti","Male",3,5,5,1,2,2,3,1,0,0,0
+"Yes","Never attended","Urban","Oti","Female",2,1,1,5,2,1,1,0,1,0,0
+"Yes","Never attended","Urban","Northern","Male",9,20,18,35,20,25,15,20,6,6,3
+"Yes","Never attended","Urban","Northern","Female",15,32,32,44,33,45,17,10,2,7,4
+"Yes","Never attended","Urban","Savannah","Male",5,1,2,1,2,3,0,0,0,2,0
+"Yes","Never attended","Urban","Savannah","Female",2,3,1,2,3,2,0,0,0,1,0
+"Yes","Never attended","Urban","North East","Male",3,0,5,3,3,2,1,0,1,0,0
+"Yes","Never attended","Urban","North East","Female",2,1,1,4,0,3,2,1,0,1,1
+"Yes","Never attended","Urban","Upper East","Male",2,1,1,8,7,2,0,2,0,2,0
+"Yes","Never attended","Urban","Upper East","Female",0,3,4,6,4,8,4,4,1,1,2
+"Yes","Never attended","Urban","Upper West","Male",2,6,3,9,5,3,12,3,1,3,0
+"Yes","Never attended","Urban","Upper West","Female",2,2,5,5,5,5,5,3,0,0,2
+"Yes","Primary","Rural","Ghana","Male",48,149,167,119,113,56,49,25,24,14,3
+"Yes","Primary","Rural","Ghana","Female",34,53,64,41,45,20,21,8,14,6,7
+"Yes","Primary","Rural","Western","Male",10,19,17,10,15,2,5,3,1,0,1
+"Yes","Primary","Rural","Western","Female",2,4,7,4,2,0,1,0,1,0,0
+"Yes","Primary","Rural","Central","Male",3,11,20,12,13,6,7,3,5,2,0
+"Yes","Primary","Rural","Central","Female",3,2,8,5,9,7,4,0,5,1,2
+"Yes","Primary","Rural","Greater Accra","Male",2,12,14,11,9,3,5,1,1,2,0
+"Yes","Primary","Rural","Greater Accra","Female",1,1,5,4,5,1,2,2,0,0,0
+"Yes","Primary","Rural","Volta","Male",6,14,15,11,10,11,4,4,1,2,0
+"Yes","Primary","Rural","Volta","Female",2,8,3,8,3,2,2,2,2,2,3
+"Yes","Primary","Rural","Eastern","Male",5,26,31,15,12,6,6,4,8,1,2
+"Yes","Primary","Rural","Eastern","Female",3,12,7,2,11,2,5,1,2,0,1
+"Yes","Primary","Rural","Ashanti","Male",11,36,33,22,29,14,13,2,2,2,0
+"Yes","Primary","Rural","Ashanti","Female",10,14,13,9,7,5,3,3,3,2,1
+"Yes","Primary","Rural","Western North","Male",2,4,9,8,4,2,2,1,1,1,0
+"Yes","Primary","Rural","Western North","Female",0,4,4,1,2,1,1,0,0,0,0
+"Yes","Primary","Rural","Ahafo","Male",0,2,2,3,0,0,0,2,1,0,0
+"Yes","Primary","Rural","Ahafo","Female",0,0,3,0,0,0,0,0,0,1,0
+"Yes","Primary","Rural","Bono","Male",3,3,6,7,5,3,0,0,0,0,0
+"Yes","Primary","Rural","Bono","Female",2,2,3,1,3,1,0,0,0,0,0
+"Yes","Primary","Rural","Bono East","Male",3,3,5,5,1,1,1,0,0,1,0
+"Yes","Primary","Rural","Bono East","Female",1,0,2,1,0,0,1,0,0,0,0
+"Yes","Primary","Rural","Oti","Male",2,1,2,3,3,0,1,1,0,1,0
+"Yes","Primary","Rural","Oti","Female",3,2,2,1,1,1,1,0,0,0,0
+"Yes","Primary","Rural","Northern","Male",0,2,3,4,2,0,1,1,1,1,0
+"Yes","Primary","Rural","Northern","Female",4,0,2,1,0,0,0,0,0,0,0
+"Yes","Primary","Rural","Savannah","Male",0,1,3,0,0,2,0,0,1,0,0
+"Yes","Primary","Rural","Savannah","Female",1,0,1,2,0,0,0,0,0,0,0
+"Yes","Primary","Rural","North East","Male",0,3,1,0,3,0,2,0,1,0,0
+"Yes","Primary","Rural","North East","Female",0,0,0,0,0,0,0,0,0,0,0
+"Yes","Primary","Rural","Upper East","Male",1,6,4,2,4,3,1,2,1,1,0
+"Yes","Primary","Rural","Upper East","Female",1,2,1,2,1,0,1,0,1,0,0
+"Yes","Primary","Rural","Upper West","Male",0,6,2,6,3,3,1,1,0,0,0
+"Yes","Primary","Rural","Upper West","Female",1,2,3,0,1,0,0,0,0,0,0
+"Yes","Primary","Urban","Ghana","Male",86,292,332,326,311,212,161,82,49,23,17
+"Yes","Primary","Urban","Ghana","Female",73,156,185,157,119,99,83,57,37,30,12
+"Yes","Primary","Urban","Western","Male",4,5,21,27,13,8,9,6,3,0,0
+"Yes","Primary","Urban","Western","Female",3,8,7,6,10,3,4,2,4,0,2
+"Yes","Primary","Urban","Central","Male",5,39,34,33,35,24,16,8,8,4,1
+"Yes","Primary","Urban","Central","Female",7,17,11,20,14,7,8,3,4,2,2
+"Yes","Primary","Urban","Greater Accra","Male",31,98,128,114,125,86,75,32,19,10,5
+"Yes","Primary","Urban","Greater Accra","Female",32,46,71,69,49,50,37,31,18,17,3
+"Yes","Primary","Urban","Volta","Male",5,14,10,13,14,6,4,6,0,0,0
+"Yes","Primary","Urban","Volta","Female",2,6,6,9,3,0,2,3,2,1,1
+"Yes","Primary","Urban","Eastern","Male",7,20,33,28,23,11,9,3,5,2,2
+"Yes","Primary","Urban","Eastern","Female",6,12,18,14,3,7,6,4,0,4,0
+"Yes","Primary","Urban","Ashanti","Male",13,65,61,64,57,38,22,18,11,6,5
+"Yes","Primary","Urban","Ashanti","Female",13,32,39,22,23,19,18,11,6,3,4
+"Yes","Primary","Urban","Western North","Male",0,3,3,3,2,3,0,3,1,0,0
+"Yes","Primary","Urban","Western North","Female",1,1,5,1,1,2,0,1,0,0,0
+"Yes","Primary","Urban","Ahafo","Male",2,2,3,11,2,5,2,0,0,0,1
+"Yes","Primary","Urban","Ahafo","Female",0,7,3,1,2,3,0,1,2,0,0
+"Yes","Primary","Urban","Bono","Male",5,8,11,12,6,4,7,0,0,0,0
+"Yes","Primary","Urban","Bono","Female",2,8,8,5,5,2,4,0,0,2,0
+"Yes","Primary","Urban","Bono East","Male",5,13,9,4,5,11,3,2,1,1,0
+"Yes","Primary","Urban","Bono East","Female",2,3,5,3,3,2,1,0,1,0,0
+"Yes","Primary","Urban","Oti","Male",2,3,2,5,4,2,1,0,0,0,0
+"Yes","Primary","Urban","Oti","Female",0,1,2,1,2,0,0,0,0,0,0
+"Yes","Primary","Urban","Northern","Male",4,14,9,4,8,6,3,1,1,0,1
+"Yes","Primary","Urban","Northern","Female",1,8,7,2,0,0,2,0,0,0,0
+"Yes","Primary","Urban","Savannah","Male",0,2,3,2,1,1,2,0,0,0,0
+"Yes","Primary","Urban","Savannah","Female",0,1,0,0,0,1,0,0,0,0,0
+"Yes","Primary","Urban","North East","Male",0,0,0,2,2,0,1,0,0,0,0
+"Yes","Primary","Urban","North East","Female",0,1,0,0,0,0,0,0,0,0,0
+"Yes","Primary","Urban","Upper East","Male",0,2,3,3,10,2,6,1,0,0,2
+"Yes","Primary","Urban","Upper East","Female",1,2,0,3,3,0,0,0,0,1,0
+"Yes","Primary","Urban","Upper West","Male",3,4,2,1,4,5,1,2,0,0,0
+"Yes","Primary","Urban","Upper West","Female",3,3,3,1,1,3,1,1,0,0,0
+"Yes","Secondary","Rural","Ghana","Male",43,80,59,90,66,90,134,144,100,69,40
+"Yes","Secondary","Rural","Ghana","Female",29,29,15,20,11,20,27,17,19,12,5
+"Yes","Secondary","Rural","Western","Male",2,7,7,11,5,9,21,10,10,4,3
+"Yes","Secondary","Rural","Western","Female",2,4,0,4,1,2,4,1,3,0,0
+"Yes","Secondary","Rural","Central","Male",3,3,5,7,7,8,10,14,11,6,4
+"Yes","Secondary","Rural","Central","Female",7,1,4,2,0,4,1,1,0,0,0
+"Yes","Secondary","Rural","Greater Accra","Male",2,13,6,18,17,28,24,37,22,15,6
+"Yes","Secondary","Rural","Greater Accra","Female",3,4,0,4,2,5,6,5,1,2,0
+"Yes","Secondary","Rural","Volta","Male",2,5,7,9,7,6,10,8,13,4,5
+"Yes","Secondary","Rural","Volta","Female",0,1,1,2,3,1,0,2,1,0,2
+"Yes","Secondary","Rural","Eastern","Male",2,4,8,10,6,8,20,25,14,10,7
+"Yes","Secondary","Rural","Eastern","Female",2,1,2,2,2,2,4,4,2,7,2
+"Yes","Secondary","Rural","Ashanti","Male",17,18,11,12,15,15,30,38,21,13,10
+"Yes","Secondary","Rural","Ashanti","Female",8,7,3,5,2,4,7,3,7,3,1
+"Yes","Secondary","Rural","Western North","Male",1,5,2,3,3,1,6,1,3,3,0
+"Yes","Secondary","Rural","Western North","Female",2,3,3,0,1,0,0,0,0,0,0
+"Yes","Secondary","Rural","Ahafo","Male",0,2,2,2,1,2,2,3,0,2,1
+"Yes","Secondary","Rural","Ahafo","Female",0,0,0,0,0,0,1,0,0,0,0
+"Yes","Secondary","Rural","Bono","Male",0,5,2,3,0,5,4,3,2,2,1
+"Yes","Secondary","Rural","Bono","Female",1,0,0,0,0,0,1,0,1,0,0
+"Yes","Secondary","Rural","Bono East","Male",1,1,5,7,0,1,0,1,2,2,1
+"Yes","Secondary","Rural","Bono East","Female",0,1,0,0,0,0,1,0,2,0,0
+"Yes","Secondary","Rural","Oti","Male",5,5,2,1,1,0,3,2,2,1,1
+"Yes","Secondary","Rural","Oti","Female",0,3,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Rural","Northern","Male",0,4,1,1,0,2,1,1,0,3,1
+"Yes","Secondary","Rural","Northern","Female",1,0,2,0,0,0,0,0,0,0,0
+"Yes","Secondary","Rural","Savannah","Male",3,2,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Rural","Savannah","Female",0,1,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Rural","North East","Male",1,1,0,1,0,1,1,0,0,0,0
+"Yes","Secondary","Rural","North East","Female",1,0,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Rural","Upper East","Male",1,2,1,1,2,4,1,1,0,2,0
+"Yes","Secondary","Rural","Upper East","Female",1,1,0,0,0,1,2,1,2,0,0
+"Yes","Secondary","Rural","Upper West","Male",3,3,0,4,2,0,1,0,0,2,0
+"Yes","Secondary","Rural","Upper West","Female",1,2,0,1,0,1,0,0,0,0,0
+"Yes","Secondary","Urban","Ghana","Male",534,459,467,679,623,893,1328,1358,1029,594,336
+"Yes","Secondary","Urban","Ghana","Female",416,160,143,159,193,265,357,345,315,176,130
+"Yes","Secondary","Urban","Western","Male",58,31,26,41,26,67,89,73,59,35,11
+"Yes","Secondary","Urban","Western","Female",23,8,11,11,10,16,19,22,16,5,1
+"Yes","Secondary","Urban","Central","Male",22,46,37,41,39,50,67,76,67,41,19
+"Yes","Secondary","Urban","Central","Female",54,12,14,7,8,17,18,21,15,6,6
+"Yes","Secondary","Urban","Greater Accra","Male",245,219,265,378,365,551,796,832,595,366,231
+"Yes","Secondary","Urban","Greater Accra","Female",233,81,77,108,128,163,227,246,226,133,97
+"Yes","Secondary","Urban","Volta","Male",9,8,11,15,15,20,25,25,20,12,1
+"Yes","Secondary","Urban","Volta","Female",3,5,1,5,3,5,7,0,3,1,2
+"Yes","Secondary","Urban","Eastern","Male",65,22,24,36,30,33,73,61,57,26,11
+"Yes","Secondary","Urban","Eastern","Female",15,8,8,4,10,19,15,23,11,14,5
+"Yes","Secondary","Urban","Ashanti","Male",51,62,68,90,97,125,201,189,166,77,42
+"Yes","Secondary","Urban","Ashanti","Female",53,26,19,16,21,31,59,25,36,13,12
+"Yes","Secondary","Urban","Western North","Male",0,3,1,6,5,5,8,6,10,1,1
+"Yes","Secondary","Urban","Western North","Female",1,3,1,0,3,0,1,0,1,0,0
+"Yes","Secondary","Urban","Ahafo","Male",3,8,2,4,6,7,8,11,4,6,3
+"Yes","Secondary","Urban","Ahafo","Female",22,1,0,1,1,0,0,1,0,0,2
+"Yes","Secondary","Urban","Bono","Male",9,19,11,18,12,13,24,40,17,11,7
+"Yes","Secondary","Urban","Bono","Female",7,3,3,3,5,8,5,2,4,1,0
+"Yes","Secondary","Urban","Bono East","Male",0,9,3,7,2,8,13,10,6,7,4
+"Yes","Secondary","Urban","Bono East","Female",1,1,1,1,1,1,1,0,2,0,1
+"Yes","Secondary","Urban","Oti","Male",1,0,2,3,4,1,0,4,1,0,0
+"Yes","Secondary","Urban","Oti","Female",0,1,0,0,0,0,0,2,0,0,0
+"Yes","Secondary","Urban","Northern","Male",24,14,11,30,12,9,13,18,15,5,4
+"Yes","Secondary","Urban","Northern","Female",2,8,4,2,2,2,1,1,1,2,2
+"Yes","Secondary","Urban","Savannah","Male",0,2,1,2,3,1,1,1,0,0,0
+"Yes","Secondary","Urban","Savannah","Female",1,0,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Urban","North East","Male",10,6,1,1,0,0,1,1,1,1,0
+"Yes","Secondary","Urban","North East","Female",0,1,0,0,0,0,0,0,0,0,0
+"Yes","Secondary","Urban","Upper East","Male",35,8,2,3,2,2,5,5,9,4,1
+"Yes","Secondary","Urban","Upper East","Female",1,1,3,1,1,1,3,1,0,0,2
+"Yes","Secondary","Urban","Upper West","Male",2,2,2,4,5,1,4,6,2,2,1
+"Yes","Secondary","Urban","Upper West","Female",0,1,1,0,0,2,1,1,0,1,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Ghana","Male",13903,18174,14134,10301,6123,3019,1529,764,433,259,143
+"Yes","Tertiary - Bachelor's Degree","Rural","Ghana","Female",9699,10493,6908,4356,2104,913,364,160,90,59,25
+"Yes","Tertiary - Bachelor's Degree","Rural","Western","Male",1106,1233,1001,622,352,186,99,49,32,15,8
+"Yes","Tertiary - Bachelor's Degree","Rural","Western","Female",870,706,489,274,101,44,11,3,3,3,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Central","Male",1640,1686,1288,1033,620,270,165,79,38,27,15
+"Yes","Tertiary - Bachelor's Degree","Rural","Central","Female",1210,1027,650,437,220,76,42,12,7,3,3
+"Yes","Tertiary - Bachelor's Degree","Rural","Greater Accra","Male",786,1890,1161,898,657,355,231,142,68,41,28
+"Yes","Tertiary - Bachelor's Degree","Rural","Greater Accra","Female",710,1710,820,515,348,180,85,39,24,19,9
+"Yes","Tertiary - Bachelor's Degree","Rural","Volta","Male",1078,1135,962,827,613,307,156,84,49,30,22
+"Yes","Tertiary - Bachelor's Degree","Rural","Volta","Female",749,747,485,352,190,79,44,16,4,7,1
+"Yes","Tertiary - Bachelor's Degree","Rural","Eastern","Male",1398,1516,1215,1105,738,409,202,108,80,42,23
+"Yes","Tertiary - Bachelor's Degree","Rural","Eastern","Female",968,914,751,546,267,137,49,26,16,14,1
+"Yes","Tertiary - Bachelor's Degree","Rural","Ashanti","Male",2643,3616,2912,2047,1196,588,278,136,76,41,24
+"Yes","Tertiary - Bachelor's Degree","Rural","Ashanti","Female",1509,2222,1553,960,482,208,74,35,19,8,7
+"Yes","Tertiary - Bachelor's Degree","Rural","Western North","Male",849,1026,713,502,237,117,47,19,10,6,3
+"Yes","Tertiary - Bachelor's Degree","Rural","Western North","Female",629,453,300,139,48,13,8,1,3,3,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Ahafo","Male",447,348,270,212,101,44,18,12,8,3,2
+"Yes","Tertiary - Bachelor's Degree","Rural","Ahafo","Female",266,135,112,94,31,13,3,4,2,0,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Bono","Male",720,1246,800,579,290,147,72,32,16,11,4
+"Yes","Tertiary - Bachelor's Degree","Rural","Bono","Female",636,708,438,250,94,33,16,2,3,1,1
+"Yes","Tertiary - Bachelor's Degree","Rural","Bono East","Male",470,457,436,291,183,75,33,15,10,7,1
+"Yes","Tertiary - Bachelor's Degree","Rural","Bono East","Female",235,201,181,132,42,8,4,0,0,1,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Oti","Male",475,405,314,247,165,85,35,14,9,5,3
+"Yes","Tertiary - Bachelor's Degree","Rural","Oti","Female",201,178,113,82,30,13,6,5,2,0,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Northern","Male",562,810,776,435,210,92,34,14,8,4,2
+"Yes","Tertiary - Bachelor's Degree","Rural","Northern","Female",330,500,228,112,45,33,7,4,2,0,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Savannah","Male",322,249,265,152,59,23,15,2,1,3,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Savannah","Female",60,96,76,41,10,3,3,2,0,0,1
+"Yes","Tertiary - Bachelor's Degree","Rural","North East","Male",148,313,245,133,71,22,5,4,2,0,0
+"Yes","Tertiary - Bachelor's Degree","Rural","North East","Female",66,70,71,26,12,4,1,0,0,0,0
+"Yes","Tertiary - Bachelor's Degree","Rural","Upper East","Male",712,1552,1081,746,359,166,82,32,18,16,3
+"Yes","Tertiary - Bachelor's Degree","Rural","Upper East","Female",788,600,411,271,130,44,8,9,4,0,2
+"Yes","Tertiary - Bachelor's Degree","Rural","Upper West","Male",547,692,695,472,272,133,57,22,8,8,5
+"Yes","Tertiary - Bachelor's Degree","Rural","Upper West","Female",472,226,230,125,54,25,3,2,1,0,0
+"Yes","Tertiary - Bachelor's Degree","Urban","Ghana","Male",38183,126542,80752,53717,33118,17813,10217,5540,3396,2191,1219
+"Yes","Tertiary - Bachelor's Degree","Urban","Ghana","Female",36775,102469,51930,29828,16065,7388,3385,1823,1111,638,303
+"Yes","Tertiary - Bachelor's Degree","Urban","Western","Male",1726,5179,3508,2405,1662,835,490,311,177,96,65
+"Yes","Tertiary - Bachelor's Degree","Urban","Western","Female",1708,3827,2173,1319,743,317,168,76,42,22,10
+"Yes","Tertiary - Bachelor's Degree","Urban","Central","Male",3302,14872,10210,5618,2715,1301,750,369,206,142,58
+"Yes","Tertiary - Bachelor's Degree","Urban","Central","Female",3044,12178,5669,2592,1169,515,243,110,78,38,17
+"Yes","Tertiary - Bachelor's Degree","Urban","Greater Accra","Male",12882,41150,29221,20823,13651,8133,4883,2830,1810,1262,763
+"Yes","Tertiary - Bachelor's Degree","Urban","Greater Accra","Female",13875,37548,21767,13699,7845,3963,1949,1180,699,427,222
+"Yes","Tertiary - Bachelor's Degree","Urban","Volta","Male",982,3009,2044,1509,1139,642,387,201,111,62,35
+"Yes","Tertiary - Bachelor's Degree","Urban","Volta","Female",1211,3407,1546,945,534,267,95,43,28,14,4
+"Yes","Tertiary - Bachelor's Degree","Urban","Eastern","Male",1964,5114,4224,3245,2184,1262,767,334,213,135,62
+"Yes","Tertiary - Bachelor's Degree","Urban","Eastern","Female",1828,4563,2839,1744,1037,449,184,103,58,29,14
+"Yes","Tertiary - Bachelor's Degree","Urban","Ashanti","Male",11819,36204,17195,10249,5633,2662,1423,763,465,262,132
+"Yes","Tertiary - Bachelor's Degree","Urban","Ashanti","Female",10526,25423,9741,5123,2470,1031,410,175,105,57,19
+"Yes","Tertiary - Bachelor's Degree","Urban","Western North","Male",419,1316,898,609,328,123,60,39,14,12,6
+"Yes","Tertiary - Bachelor's Degree","Urban","Western North","Female",349,908,510,207,71,23,5,6,1,0,0
+"Yes","Tertiary - Bachelor's Degree","Urban","Ahafo","Male",438,1103,850,597,411,184,104,39,24,11,8
+"Yes","Tertiary - Bachelor's Degree","Urban","Ahafo","Female",266,886,435,247,129,50,11,9,3,1,0
+"Yes","Tertiary - Bachelor's Degree","Urban","Bono","Male",1396,6853,3530,2205,1283,580,264,144,102,53,26
+"Yes","Tertiary - Bachelor's Degree","Urban","Bono","Female",1327,4787,2164,1019,490,176,84,29,26,15,1
+"Yes","Tertiary - Bachelor's Degree","Urban","Bono East","Male",723,1725,1430,1164,693,325,154,76,42,24,12
+"Yes","Tertiary - Bachelor's Degree","Urban","Bono East","Female",498,1205,767,491,225,84,35,6,8,3,1
+"Yes","Tertiary - Bachelor's Degree","Urban","Oti","Male",342,815,519,361,258,140,60,32,12,8,4
+"Yes","Tertiary - Bachelor's Degree","Urban","Oti","Female",192,481,264,124,68,19,8,2,5,1,0
+"Yes","Tertiary - Bachelor's Degree","Urban","Northern","Male",1098,4964,3740,2512,1516,794,477,191,97,58,22
+"Yes","Tertiary - Bachelor's Degree","Urban","Northern","Female",1077,4390,2166,1232,630,239,90,35,26,13,5
+"Yes","Tertiary - Bachelor's Degree","Urban","Savannah","Male",170,224,345,332,181,80,50,31,14,5,4
+"Yes","Tertiary - Bachelor's Degree","Urban","Savannah","Female",71,176,207,92,64,11,8,3,1,2,1
+"Yes","Tertiary - Bachelor's Degree","Urban","North East","Male",185,409,390,294,182,72,33,23,11,4,3
+"Yes","Tertiary - Bachelor's Degree","Urban","North East","Female",71,151,171,104,50,15,6,3,0,0,0
+"Yes","Tertiary - Bachelor's Degree","Urban","Upper East","Male",362,1260,897,804,627,308,177,80,46,25,13
+"Yes","Tertiary - Bachelor's Degree","Urban","Upper East","Female",368,771,579,445,250,106,43,16,14,5,2
+"Yes","Tertiary - Bachelor's Degree","Urban","Upper West","Male",375,2345,1751,990,655,372,138,77,52,32,6
+"Yes","Tertiary - Bachelor's Degree","Urban","Upper West","Female",364,1768,932,445,290,123,46,27,17,11,7
